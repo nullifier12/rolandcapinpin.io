@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d71ce18.css",
+    "main.js": "/static/js/main.35dfc2c1.js",
+    "static/js/787.f5efabe0.chunk.js": "/static/js/787.f5efabe0.chunk.js",
+    "static/media/1B1.jpg": "/static/media/1B1.87b767d36b8604371991.jpg",
+    "static/media/mmhr.png": "/static/media/mmhr.4fcf72b56e4936e0301b.png",
+    "static/media/ajax.png": "/static/media/ajax.a25cd321044a4b4e6724.png",
+    "static/media/raqcar3.png": "/static/media/raqcar3.205ccdcc78510a3b9281.png",
+    "static/media/lbcCar.png": "/static/media/lbcCar.99c2e4747a24042a52f6.png",
+    "static/media/iapp.png": "/static/media/iapp.90fbef3aba520fdab8dc.png",
+    "static/media/html2.png": "/static/media/html2.4de5d2224c60b7fbde73.png",
+    "static/media/phnma.png": "/static/media/phnma.407e93024c86725930ee.png",
+    "static/media/raq.png": "/static/media/raq.4ec47c4d7eecd4c031a3.png",
+    "static/media/sql.png": "/static/media/sql.9abb470bd3a3e2290e39.png",
+    "static/media/react.png": "/static/media/react.fd373eec9017cf21b26d.png",
+    "static/media/axios.png": "/static/media/axios.01c037de1ce2fa9a5beb.png",
+    "static/media/native.png": "/static/media/native.90fb0021be64f2b1ce7e.png",
+    "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.a7cb412dfa89787a0e7a.png",
+    "static/media/css2.png": "/static/media/css2.02d225c7df0b28341d8d.png",
+    "static/media/kns2nbg.png": "/static/media/kns2nbg.fe599e451e248d5f1ff1.png",
+    "static/media/ejs-removebg-preview.png": "/static/media/ejs-removebg-preview.ad8bdeb5f6f2367d850a.png",
+    "static/media/nd2.png": "/static/media/nd2.b235615dd3114bee871d.png",
+    "index.html": "/index.html",
+    "main.4d71ce18.css.map": "/static/css/main.4d71ce18.css.map",
+    "main.35dfc2c1.js.map": "/static/js/main.35dfc2c1.js.map",
+    "787.f5efabe0.chunk.js.map": "/static/js/787.f5efabe0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d71ce18.css",
+    "static/js/main.35dfc2c1.js"
+  ]
+}
